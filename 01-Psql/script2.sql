@@ -1,4 +1,4 @@
-/* Usando o mesmo banco da atv1 
+/* Usando o mesmo banco do script 1
 
 CREATE DATABASE lojaif;
 \c lojaif
