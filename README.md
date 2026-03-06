@@ -6,7 +6,7 @@
 * ***HORA RELOGIO:*** 67h
 * [DOCS DAS AULAS](https://docs.google.com/document/d/1mZTJKGIwp1aYnGYolicUv4LpQIyyLXzwK2CI9WBxjEw/edit?usp=sharing)
 
-#### Tecnologias: PostgreSQL
+- **Banco de Dados:** PostgreSQL
 
 ### Objetivo:
 Fornecer conhecimentos sobre a concepção, utilização, técnicas de estruturação,
